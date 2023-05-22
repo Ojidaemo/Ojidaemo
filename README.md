@@ -2,7 +2,7 @@
 #### Beginner iOS Developer
 I am just at the beginning of my path to become an iOS developer. Currently, I'm taking part in the Swift Marathon 6.0 with ~ 200 other students. During the marathon, we are going to complete 3 projects in teams. 
 
-- **Technical Skills**: Swift, OOP, MVC, REST API, JSON
+- **Technical Skills**: Swift, OOP, SOLID, MVC, REST API, JSON
 - **Technologies**: Firebase, CoreData, Realm, Swift Package Manager, CocoaPods
 - **Frameworks**: UIKit , AutoLayout, Kingfisher
 - **Developer tools**: Git, Xcode, GitHub
