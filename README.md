@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vitali
-#### Beginner iOS Developer
+#### iOS Developer
 I am just at the beginning of my path to become an iOS developer. 
 
 - **Technical Skills**: Swift, OOP, SOLID, MVC, REST API, JSON
